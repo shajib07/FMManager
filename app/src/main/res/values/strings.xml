@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FMManager</string>
+    <string name="search_by_artist">Search by Artist</string>
+    <string name="fm_manager">FM Manager</string>
+    <string name="no_track_available">No Track Available</string>
+    <string name="track_list">Track List</string>
+    <string name="network_check">Please check your internet connection!</string>
+</resources>
